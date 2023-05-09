@@ -1,13 +1,12 @@
-package app;
+package esercizio01;
 
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class ExerciseOne {
+public class Main {
 
 	public static void main(String[] args) {
-
 		// Attributi 
 		int length;
 		Set<String> myElements = new HashSet<>();
